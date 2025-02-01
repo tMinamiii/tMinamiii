@@ -3,9 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2022 - To: 30 January 2025
+From: 12 December 2022 - To: 31 January 2025
 
-Total Time: 1,773 hrs 15 mins
+Total Time: 1,773 hrs 16 mins
 
 Go               1,062 hrs 3 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   59.89 %
 sh               287 hrs 47 mins ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.23 %
